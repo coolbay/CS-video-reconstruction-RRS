@@ -3,8 +3,8 @@ This is the matlab implementation of the paper "Zhao, C., Ma, S., Zhang, J., Xio
 
 
 ## Usage 
-1. First run `Phase1_intra/demo` to generate the intial recovery for all frames;
-2. Then run `Phase2_inter/demo` to apply inter RRS to further enhance the quality of nonkey frames.
+1. First run `Phase1_intra/Demo.m` to generate the intial recovery for all frames;
+2. Then run `Phase2_inter/Demo.m` to apply inter RRS to further enhance the quality of nonkey frames.
 
 ## Dependencies
 1. [mh-bcs-spl-1.0-1](https://drive.google.com/open?id=15QMtsIdGaZnMMhmG-S3ULUyNpFgT8Q9P)
