@@ -1,15 +1,15 @@
 
+# About the code
 This is the matlab implementation of the paper "Zhao, C., Ma, S., Zhang, J., Xiong, R., & Gao, W. (2017). Video compressive sensing reconstruction via reweighted residual sparsity. IEEE Transactions on Circuits and Systems for Video Technology, 27(6), 1182-1195."
 
 
-## Usage 
+# Usage 
 1. Uncompress the rar file `dependencies/mh-bcs-spl-1.0-1` into the folder `Phase1_intra/Utilities/`
 2. Run `Phase1_intra/Demo.m` to generate the intial recovery for all frames;
 3. Run `Phase2_inter/Demo.m` to apply inter RRS to further enhance the quality of nonkey frames.
 
 
-## Cite this work
-
+# Cite this work
 Please cite the following paper if you use this code. 
 ```
 @article{zhao2017video,
