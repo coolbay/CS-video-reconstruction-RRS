@@ -1,6 +1,6 @@
 
 # About the code
-This is the matlab implementation of the paper "Zhao, C., Ma, S., Zhang, J., Xiong, R., & Gao, W. (2017). Video compressive sensing reconstruction via reweighted residual sparsity. IEEE Transactions on Circuits and Systems for Video Technology, 27(6), 1182-1195."
+This is the matlab implementation of the paper "Zhao, C., Ma, S., Zhang, J., Xiong, R., & Gao, W. (2017). Video compressive sensing reconstruction via reweighted residual sparsity. IEEE Transactions on Circuits and Systems for Video Technology, 27(6), 1182-1195." [[Click here for the paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7406719)
 
 
 # Usage 
