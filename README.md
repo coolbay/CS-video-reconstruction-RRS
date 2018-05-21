@@ -4,7 +4,7 @@ This is the matlab implementation of the paper "Zhao, C., Ma, S., Zhang, J., Xio
 
 
 # Usage 
-1. Uncompress the rar file `dependencies/mh-bcs-spl-1.0-1` into the folder `Phase1_intra/Utilities/`
+1. Uncompress the .rar file `dependencies/mh-bcs-spl-1.0-1.rar` into the folder `Phase1_intra/Utilities/`
 2. Run `Phase1_intra/Demo.m` to generate the intial recovery for all frames;
 3. Run `Phase2_inter/Demo.m` to apply inter RRS to further enhance the quality of nonkey frames.
 
